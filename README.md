@@ -1,4 +1,4 @@
-# IEEE_benchmark_distribution_grids
+# IEEE-benchmark-distribution-grids
 The network data of IEEE benchmark distribution grids
 'IEEE_node25.mat', 'IEEE_node69.mat', and 'IEEE_node123.mat' are MAT files that consist of network data, peak demand value at each node, and PV capacities.
 Each file has 2 structure arrays:
